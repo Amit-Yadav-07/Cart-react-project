@@ -129,7 +129,14 @@ article strong {
   background-color: blueviolet;
   color: #fff;
   font-size: 1rem;
+  letter-spacing: 2px;
   cursor: pointer;
+  text-transform: capitalize;
+  border-radius: 3px;
+}
+
+.btn:hover {
+  box-shadow: 0px 0px 10px 0px black;
 }
 
 article img {
@@ -151,7 +158,8 @@ article img {
 
 hr {
   width: 60%;
-  margin: 1rem auto;
+  margin: 0rem auto;
+  margin-top: 4rem;
 }
 
 .total-container {
