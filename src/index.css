@@ -11,9 +11,6 @@ body {
     Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-.main {
-}
-
 nav {
   display: flex;
   background-color: blueviolet;
@@ -137,7 +134,7 @@ article strong {
 
 article img {
   height: 80%;
-  width: 80%;
+  width: 100%;
   object-fit: cover;
 }
 
